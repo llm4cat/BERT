@@ -22,11 +22,18 @@ This is about our initial experiment about  using BERT model to deal with our pr
    ```bash
    git clone https://github.com/llm4cat/BERT.git
    ```
-2. Create a new virtual environment(Where we run is in Linux with sever and we manage our environment by conda )
+
+2. Navigate to the project directory:
    ```bash
-   cd yourproject
-   ```
-3. Install dependencies:
+   cd BERT
+    ```
+3. Create a new virtual environment(Where we run is in Linux with sever and we manage our environment by conda )
+   ```bash
+      conda create --name bert_env python=3.8
+      conda activate bert_env
+    ```
+
+4. Install dependencies:
    ```bash
    python --version # make sure you already have install python
    pip install pandas  
@@ -57,8 +64,8 @@ This is about our initial experiment about  using BERT model to deal with our pr
    python test-fast.py
    ```
    Predict LCSH just replace the fast to lcsh.
-
-   ```
+   
+   
 
 
 
