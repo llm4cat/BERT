@@ -6,9 +6,8 @@ BERT in multi-labels classification for library text.
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
+5. [License](#license)
+6. [Contact](#contact)
 
 ## Introduction
 This is about our initial experiment about  using BERT model to deal with our previous data (bibli.csv). For more detail information and code you may find with my collaborator Amir Azadnouran.
